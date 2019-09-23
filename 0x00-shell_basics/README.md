@@ -1,0 +1,1 @@
+The script "0-current_working_directory" prints the entirely path of the current directory
